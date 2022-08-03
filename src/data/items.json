@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Headphones",
+    "price": 105.00,
+    "imgUrl": "/imgs/headphones.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cosmetics",
+    "price": 56.00,
+    "imgUrl": "/imgs/cosmetics.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Watch",
+    "price": 500.00,
+    "imgUrl": "/imgs/watch.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "price": 150.00,
+    "imgUrl": "/imgs/shoes.jpg"
+  }
+]
+ 
+
